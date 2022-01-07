@@ -1,0 +1,39 @@
+{
+  "name": "referendum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://magicgordon.github.io/referendum",
+  "repository": "https://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@github.com/MagicGordon/referendum.git",
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^5.1.1",
+    "near-api-js": "^0.44.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.0",
+    "big.js": "^6.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
