@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/referendum/static/css/main.711ea19d.chunk.css",
-    "main.js": "/referendum/static/js/main.9c3d06b9.chunk.js",
-    "main.js.map": "/referendum/static/js/main.9c3d06b9.chunk.js.map",
+    "main.js": "/referendum/static/js/main.ace001d9.chunk.js",
+    "main.js.map": "/referendum/static/js/main.ace001d9.chunk.js.map",
     "runtime-main.js": "/referendum/static/js/runtime-main.23c0015b.js",
     "runtime-main.js.map": "/referendum/static/js/runtime-main.23c0015b.js.map",
-    "static/js/2.4ffd8a13.chunk.js": "/referendum/static/js/2.4ffd8a13.chunk.js",
-    "static/js/2.4ffd8a13.chunk.js.map": "/referendum/static/js/2.4ffd8a13.chunk.js.map",
+    "static/js/2.c2df0062.chunk.js": "/referendum/static/js/2.c2df0062.chunk.js",
+    "static/js/2.c2df0062.chunk.js.map": "/referendum/static/js/2.c2df0062.chunk.js.map",
     "index.html": "/referendum/index.html",
-    "precache-manifest.2ff1c7fe3daa88949898a1f9fc2b26c3.js": "/referendum/precache-manifest.2ff1c7fe3daa88949898a1f9fc2b26c3.js",
+    "precache-manifest.a37a6c871f8118009369a477fdb2cfac.js": "/referendum/precache-manifest.a37a6c871f8118009369a477fdb2cfac.js",
     "service-worker.js": "/referendum/service-worker.js",
     "static/css/main.711ea19d.chunk.css.map": "/referendum/static/css/main.711ea19d.chunk.css.map",
-    "static/js/2.4ffd8a13.chunk.js.LICENSE.txt": "/referendum/static/js/2.4ffd8a13.chunk.js.LICENSE.txt"
+    "static/js/2.c2df0062.chunk.js.LICENSE.txt": "/referendum/static/js/2.c2df0062.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23c0015b.js",
-    "static/js/2.4ffd8a13.chunk.js",
+    "static/js/2.c2df0062.chunk.js",
     "static/css/main.711ea19d.chunk.css",
-    "static/js/main.9c3d06b9.chunk.js"
+    "static/js/main.ace001d9.chunk.js"
   ]
 }
