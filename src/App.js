@@ -15,7 +15,7 @@ utils: {
 }
 } = nearAPI;
 
-const ReferendumContractName = 'dev-1641457721804-95400731314713';
+const ReferendumContractName = 'dev-1641691100358-88696607570579';
 const XrefContractName = 'dev-1641291247531-69951278398392';
 
 class App extends React.Component {
